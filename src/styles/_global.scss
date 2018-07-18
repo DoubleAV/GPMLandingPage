@@ -110,7 +110,8 @@ img
                 transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg); }
 
   100% {
-            -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+            -webkit-transform: perspective(120px) rotateX(-180deg
+            ) rotateY(-179.9deg);
                     transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg); } }
 
 @keyframes sk-rotatePlane {
@@ -356,7 +357,7 @@ img
 #contact
     {
         /* I dont know how to work around this in webpack */
-        background: url('../src/assets/images/contact-bg.jpg') no-repeat;
+        background: url('../src/assets/images/contact-pretty-course.jpg') no-repeat;
         background-size: cover;
         color: #fff;
     }
