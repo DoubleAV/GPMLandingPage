@@ -1,6 +1,6 @@
-import Vue from 'vue';
-import template from './pricing.html';
+// import Vue from 'vue';
+// import template from './pricing.html';
 
-export default Vue.extend({
-  template,
-});
+// export default Vue.extend({
+//   template,
+// });
