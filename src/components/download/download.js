@@ -1,6 +1,6 @@
-import Vue from 'vue';
-import template from './download.html';
+// import Vue from 'vue';
+// import template from './download.html';
 
-export default Vue.extend({
-  template,
-});
+// export default Vue.extend({
+//   template,
+// });
